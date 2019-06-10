@@ -1,0 +1,24 @@
+put 10 in int a;
+print "Value of A:";
+print a;
+
+if(a = 10){
+  put 15 in a;
+}
+
+print "Value of A:";
+print a;
+
+
+put 0 in int b;
+print "Value of B:";
+print b;
+
+if(b = 10){
+  put 15 in b;
+}else{
+  put 10 in b;
+}
+
+print "Value of B:";
+print b;

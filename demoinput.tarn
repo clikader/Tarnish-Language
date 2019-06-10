@@ -1,0 +1,18 @@
+put 10 in a
+put a + 5 in b
+
+//This is a loop
+if(a = 10){
+  put 15 in a
+}
+
+if(b = 10){
+  put 15 in b
+}else{
+  put 10 in b
+}
+
+//now a while loop
+while(a < 10){
+  put a + 1 in a
+}

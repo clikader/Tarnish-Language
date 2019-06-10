@@ -1,0 +1,8 @@
+lex.yy.c
+tarnish
+y.tab.c
+y.tab.h
+
+submission_*
+
+.DS_Store

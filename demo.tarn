@@ -1,0 +1,21 @@
+put 10 in int a;
+put 20 in int b;
+
+print b;
+print a+b;
+print b/a;
+
+if(a < b){
+    put b in a;
+}
+
+print "the value of a is:";
+print a;
+
+put 0 in int i;
+while(i < 10) {
+    print "hello";
+    put i + 1 in i;
+}
+
+print "finished";

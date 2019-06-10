@@ -1,0 +1,15 @@
+// Correct assignments
+put 10 in int a;
+put a + 5 in int b;
+put "Hello" in string c;
+put true in bool d;
+put 15 in a;
+put "Hi" in c;
+put false in d;
+
+// Incorrect Assignments
+put 15 in c;
+put "Hello" in a;
+put true in b;
+put 30 in d;
+
